@@ -8,8 +8,7 @@
 # Table of Contents
 - [Summary](#Summary)
 - [Folder hierarchy](#Folderhierarchy)
-- [Databases](#Databases)
-- [General description](#Generaldescription)
+
 
 
   
