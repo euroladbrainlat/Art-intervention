@@ -28,5 +28,5 @@ Below is the folder hierarchy of the repository. It has been divided into main r
   - **bigrams_quality_post2.ipynb** `Script for generating the qualitative analysis for Post 2.`
   - **burbles_analysis.ipynb** `Script for generating the bubble plots.`
 
-  - **Data/** `Databases required for analysis.`
+- **Data/** `Databases required for analysis.`
  
